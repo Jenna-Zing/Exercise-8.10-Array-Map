@@ -4,6 +4,11 @@ Springboard SE Bootcamp - Array Map Exercise for Section 8.10
 
 Assignment Instructions: https://lessons.springboard.com/Array-Methods-map-Exercise-22bff432872144dabea471707531625c
 
+# Running this assignment
+
+1. `cd array-methods-map-exercise`
+2. `node users.js`
+
 ## Recall: What is a Callback Function?
 
 A **callback function** is a function that is **passed as an argument** to another function and is **invoked** (called back) at a later time.
